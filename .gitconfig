@@ -1,0 +1,9 @@
+[user]
+	email = matt@bigdawggi.com
+	name = Matt Richmond
+[core]
+	excludesfile = /Users/matt/.gitignore
+[push]
+	default = current
+[pager]
+	branch = false
